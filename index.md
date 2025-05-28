@@ -19,7 +19,7 @@
   <div class="main">
     <img src="avatar-jessica.jpeg" alt="profile image" class="image">
     <header>
-        <h1 class="name">Jessica Randall</h2>
+        <h1 class="name">Jessica Randall</h1>
         <h4 class="counry">London,United Kingdom</h4>
     </header>
     <section class="bio">"Front-end developer and avid reader."</section>
