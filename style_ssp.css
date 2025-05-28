@@ -87,7 +87,7 @@ body{
 @media screen and (max-width: 375px) {
     .main{
     position: relative;
-    width: 50%;
+    width: 80%;
     text-align: center;
     border: solid;
     border-radius: 20px;
@@ -98,6 +98,13 @@ body{
     margin-top: 5%;
     margin-bottom: 5%;
     }
-    
+    .image{
+    position: relative;
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;  
+    width: 30%; 
+    margin: 5% auto;
+}
 }
 
